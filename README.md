@@ -27,15 +27,6 @@ _(click the button!)_
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chella6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:chellaprabhusp@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
-### I'm Completed on Right Now
-#### Completed Conference Papers
-[![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
-   ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification**  
-   ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 
 
 ### I'm working on Right Now
