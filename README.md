@@ -1,4 +1,4 @@
-# Welcome to [Chellaprabhu's](https://github.com/chellaprabhusp/) profile! <a href="https://github.com/chellaprabhu6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Chellaprabhu's](https://github.com/chellaprabhusp/) profile! <a href="https://github.com/chellaprabhusp/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
 
@@ -39,19 +39,7 @@ Designed and implemented a real-time data classification system for a startup, e
 #### Accelerometer-Based Human Activity Prediction: 
 Researched and developed a robust machine learning model using accelerometer data and deep learning techniques. Achieved high accuracy in classifying human activities with a fine-tuned architecture, paving the way for applications in health monitoring, fitness tracking, and assistive technologies.
 
--------------------------------------------------------------------------------------------------------
-### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
-
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<br>
-
-
-- 👨💻All of my projects are available at [https://github.com/chella6](https://github.com/chella6)
+------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
