@@ -120,4 +120,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Be Active Be Success
 -->
-![](https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App/blob/master/Final_Video.gif)
+
