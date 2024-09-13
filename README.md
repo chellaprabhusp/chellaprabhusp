@@ -1,6 +1,6 @@
 # Welcome to [Chellaprabhu's's](https://github.com/chella6/) profile! <a href="https://github.com/chellaprabhu6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://tenor.com/view/coding-gif-18657810" height=15% width=40% align="right">
 
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
