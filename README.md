@@ -46,6 +46,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 **Check out 
 ✨[`@chellaprabhusp`](https://github.com/chellaprabhusp6)✨**
 
+![](https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App/blob/master/Final_Video.gif)
 
 Projects: 
 # Diabetes Prediction Flask Web App
