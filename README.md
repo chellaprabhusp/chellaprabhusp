@@ -55,36 +55,27 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/chella6)✨**
+✨[`@chellaprabhusp`](https://github.com/chellaprabhusp6)✨**
 
 
 Projects: 
-# Startup-Company-Machine-Learning with Streamlit 
+# Diabetes Prediction Flask Web App
 
-"Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
+This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.
+## Overview
 
+The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 
-## Demo WebApp
+## Features
 
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
+- Users can input their health parameters such as Glucose level, Blood Pressure, Skin Thickness, Insulin level, BMI, Diabetes Pedigree Function (DPF), and Age.
+- The ensemble machine learning model predicts the likelihood of diabetes based on the input.
+- The app displays the prediction result, indicating whether the user is likely to have diabetes or not.
+- Users can receive accurate and quick predictions for early diabetes detection.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
-### Home page
+## Model
 
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnbDQ5cmVrYnBkcGp2dHZkdWQybjFpOXVjNHduaGR2dnRnYjRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuiWalMAqdDgv7IYBK/giphy.gif
-)
-
-### Startup Prediction Performance
-
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd4Mmd3dXQ1cm9rM2lzemx5ajBzcmF3dDU0dDBjcTFpbXU5bDcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qLnwPvnST1VznZyhb8/giphy.gif)
-
-### Startup Dashboard Performance 
-
-![demo](
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjbWJ0ZWJnb2R2MWl5cWpkeWVpdnJjdW80a2N6d3M4dDdxNWc3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsrxpmCAbUPDzrM236/giphy.gif)
-
-
-
+The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
 
 ## Requirements
 Python 3.9.13
