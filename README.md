@@ -13,7 +13,6 @@
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
-<img src="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2 (1).jfif"height=20%width=30%>
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
